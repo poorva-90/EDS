@@ -11,7 +11,7 @@
 [Click to view Preskilet video](https://preskilet.com/202401120027@mitaoe.ac.in)
 
 ### 📄 Cisco Certificates
-- [Python Essentials 1 & 2](./Cisco_Certificates.pdf)
+- [Python Essentials 1 & 2](./Cisco certificate 1.pdf)
 
 ### 📝 EDS Assignment
 - [Activity No-1 (Theory)](./EDS_THEORY_ACTIVITY_NO-1.pdf)
