@@ -17,5 +17,5 @@
 - [Cisco Certificate 1](Cisco%20certificate%201.pdf)  
 - [Cisco Certificate 2](Cisco%20certificate%202.pdf)
 
-#### 🏅 CodeTantra Completion  
-![CodeTantra Completion](CodetantraCompletion.png)
+#### 🏅 CodeTantra Completion    
+[View CodeTantra Completion](CodetantraCompletion.png)
